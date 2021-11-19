@@ -9,7 +9,7 @@ $arrayOne = [21, 54 ,37, 40, 24];
 $arrayOne = [
   [ 3 => 1, 7 => 3, 24 => 7, 9 => 21, 30 => 12]
 ];
-
+// dsadas
 foreach ($arrayTwo as $key => $value) {
   var_export($arrayTwo);
 }
